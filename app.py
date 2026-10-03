@@ -5,7 +5,7 @@ import numpy as np
 st.set_page_config(page_title="GPR AI Prototype - Mahmoud", layout="wide")
 st.title("🛰️ GPR Leak Detection Prototype (i3WaterS DC1)")
 st.markdown(
-    "Developed by: **Mahmoud [Your Last Name]** | Demonstrating AI-driven preprocessing and XAI for subsurface utility detection.")
+    "Developed by: **Mahmoud Elnajjar** | Demonstrating AI-driven preprocessing and XAI for subsurface utility detection.")
 
 st.sidebar.header("Control Panel")
 st.sidebar.info(
